@@ -6,7 +6,7 @@ public class studentMain {
         //this choice is whether you want to replace a menu item or not "Y" for yes "N" for no
         String choice = "Y";
         
-        //player's score
+        //player's score 
         int score = 0;
         
         
